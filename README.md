@@ -16,4 +16,4 @@ ________________________________________________________________________________
 - X: ([url](https://x.com/katymedia7))
 
 ### My Resumè
-[Link]([url](https://docs.google.com/document/d/1wPUNHz1PN12IocrulZrgT3Lekn7YNLryDdAifRXSMjE/edit?tab=t.0))
+[Link](https://docs.google.com/document/d/1wPUNHz1PN12IocrulZrgT3Lekn7YNLryDdAifRXSMjE/edit?tab=t.0)
