@@ -1,4 +1,4 @@
-### Hello, I'm [Dara](https://github.com/MyDarapy/MyDarapy/edit/main/README.md) 👋
+#### Hello, I'm [Dara](https://github.com/MyDarapy/MyDarapy/edit/main/README.md) 👋
 I am a machine learning engineer, and an aspiring AGI researcher. 
 
 My work primarily evolves around training optimization, inference optims, and multimodal (speech-text) language models. I occasionally do some mechnaistic intrepretability probing during the weekends and write about my finding here 
