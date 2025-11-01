@@ -10,10 +10,10 @@ ________________________________________________________________________________
 - [Upcycle MoE](https://github.com/MyDarapy/upcycle-dense-transformer-to-MoE): A framework for upcylcing any dense model to a sparse Mixture of expert arch
 __________________________________________________________________________________________________________________________________________________________________________________________________
 ### Get in touch 
-[emai](katherineolowookere@gmail.com)
-[Blog](https://medium.com/@katherineolowookere)
-[Linkedin](https://www.linkedin.com/in/oluwadarasimi/)
-[X](https://x.com/katymedia7)
+- [emai](katherineolowookere@gmail.com)
+- [Blog](https://medium.com/@katherineolowookere)
+- [Linkedin](https://www.linkedin.com/in/oluwadarasimi/)
+- [X](https://x.com/katymedia7)
 
 ### My Resumè
 [Link](https://docs.google.com/document/d/1wPUNHz1PN12IocrulZrgT3Lekn7YNLryDdAifRXSMjE/edit?tab=t.0)
