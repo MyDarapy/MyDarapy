@@ -1,7 +1,7 @@
 #### Hello, I'm [Dara](https://github.com/MyDarapy/MyDarapy/edit/main/README.md) 👋
 I am a machine learning engineer, and an aspiring AGI researcher. 
 
-My work primarily evolves around training optimization, inference optims, and multimodal (speech-text) language models. I am concerned about AI safety and interpretability so I occasionally do some mechnaistic intrepretability probing during the weekends and write about my findings [here](https://medium.com/@katherineolowookere/finding-and-ablating-jailbreak-compliance-directions-in-llms-14352dac6566)
+My work primarily evolves around foundation multimodal models, training optimization and inference optims. I am concerned about AI safety and interpretability so I occasionally do some mechnaistic intrepretability probing during the weekends and write about my findings [here](https://medium.com/@katherineolowookere/finding-and-ablating-jailbreak-compliance-directions-in-llms-14352dac6566)
 __________________________________________________________________________________________________________________________________________________________________________________________________
 ### My Work
 - [Infuse audio](https://github.com/MyDarapy/multimodal-llms): A framework for aligning audio representations with the embedding space of LLMs (multimodality)
