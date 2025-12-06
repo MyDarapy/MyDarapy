@@ -1,4 +1,4 @@
-#### Hi, I'm [Dara](https://github.com/MyDarapy/MyDarapy/edit/main/README.md) 👋👩
+#### Hi, I'm [Dara](https://github.com/MyDarapy/MyDarapy/edit/main/README.md)👩👋 
 I am a machine learning engineer, and an aspiring AGI researcher. 
 
 My work primarily evolves around foundation multimodal models, large-scale pre-training, and high-performance inference optimization. I am concerned about AI safety and interpretability so I occasionally do some mechnaistic intrepretability probing and write about some of my findings [here](https://medium.com/@katherineolowookere/finding-and-ablating-jailbreak-compliance-directions-in-llms-14352dac6566)
