@@ -1,7 +1,9 @@
-#### Hello, I'm [Dara](https://github.com/MyDarapy/MyDarapy/edit/main/README.md) 👋
+#### Hi, I'm [Dara](https://github.com/MyDarapy/MyDarapy/edit/main/README.md) 👋
 I am a machine learning engineer, and an aspiring AGI researcher. 
 
-My work primarily evolves around foundation multimodal models, training optimization and inference optims. I am concerned about AI safety and interpretability so I occasionally do some mechnaistic intrepretability probing during the weekends and write about my findings [here](https://medium.com/@katherineolowookere/finding-and-ablating-jailbreak-compliance-directions-in-llms-14352dac6566)
+My work primarily evolves around foundation multimodal models, large scale pre-training optimization and inference optimization. I am concerned about AI safety and interpretability so I occasionally do some mechnaistic intrepretability probing during the weekends and write about some of my findings [here](https://medium.com/@katherineolowookere/finding-and-ablating-jailbreak-compliance-directions-in-llms-14352dac6566)
+
+I am currently deep-diving into HPC for deep learning, writing custom GPU kernels in Triton that leverage tiling, shared memory, and parallel execution to overcome the memory wall. My focus is on accelerating DL training and inferencing through IO-aware kernel design.
 __________________________________________________________________________________________________________________________________________________________________________________________________
 ### My Work
 - [Infuse audio](https://github.com/MyDarapy/multimodal-llms): A framework for aligning audio representations with the embedding space of LLMs (multimodality)
